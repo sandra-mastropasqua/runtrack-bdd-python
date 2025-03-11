@@ -1,0 +1,1 @@
+SELECT AVG(age) moyenne_age FROM etudiant;
